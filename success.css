@@ -1,0 +1,20 @@
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.modifier {
+    font-size: 15vw;
+    color: green;
+}
+
+#success-para {
+    font-size: 16px;
+}
+
+#thank-text {
+    font-size: 40px;
+    
+}
